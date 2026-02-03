@@ -1,0 +1,93 @@
+.exer1 h1 {
+    text-align: center;
+    color: brown;
+}
+
+.exer1 h2 {
+    text-align: center;
+}
+
+.exer1 p {
+    max-width: 720px;
+    margin: auto;
+}
+
+.card {
+    max-width: 300px;
+    padding: 20px;
+    background-color: #ff67e8;
+    border-radius: 10px;
+    box-shadow: 16px 14px 25px 10px rgba(255, 0, 235, 0.41);
+}
+
+.card-img {
+    width: 100%;
+     height: 190px;
+     border-radius: 5%;
+    object-fit: cover;
+}
+
+.exer3 ul,
+.exer3 li {
+    list-style: none;
+    padding: 0%;
+    border-left: 10cap solid color(srgb rgb(236, 12, 12) green blue);
+    font-size: 20px;
+}
+
+.exer3 h1 {
+    color: #ff67e8;
+    font-size: 50px;
+    border-left: 5px solid #ec0c0c;
+    padding-left: 10px;
+}
+
+.exer3 h2 {
+    color: #ff67e8;
+    border-left: 5px solid #ec0c0c;
+    padding-left: 10px;
+}
+
+
+.exer4 li {
+    padding: 5px 0;
+    border-bottom: 2px solid coral;
+}
+
+
+.exer4 a {
+    text-decoration: none;
+    color: #00faaf;
+}
+
+.exer5 label {
+    margin-bottom: 10px;
+}
+
+.exer5 input,
+.exer5 textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.exerc6 .botao {
+    background-color: #e80170;
+    color: #FFF;
+    padding: 10px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.exerc8 img {
+     width: 250px;
+  height: 350px;
+  object-fit: cover;
+}
+
+.exerc8::after {
+  content: "";
+  display: block;
+  clear: both;
+}
